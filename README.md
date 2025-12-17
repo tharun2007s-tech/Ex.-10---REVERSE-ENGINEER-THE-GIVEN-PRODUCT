@@ -1,6 +1,6 @@
 # Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 
+### DATE: 17-12-2025
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -32,7 +32,16 @@
 
 ## Input:
 
+<img width="1024" height="1024" alt="ChatGPT Image Dec 17, 2025, 09_18_57 PM" src="https://github.com/user-attachments/assets/c9cfbf11-dc82-42da-a1fa-cb5cc76dcabc" />
+
+
 ### Output:
+
+<img width="653" height="683" alt="Screenshot 2025-12-17 211626" src="https://github.com/user-attachments/assets/3d33b8ee-b782-459a-8890-5b13aeaa363f" />
+<img width="592" height="424" alt="Screenshot 2025-12-17 213719" src="https://github.com/user-attachments/assets/41f5f975-daac-41f2-af73-f5700c0927fa" />
+<img width="470" height="560" alt="Screenshot 2025-12-17 213658" src="https://github.com/user-attachments/assets/0bbda996-0500-4e8e-b6c1-4245e261d8b7" />
+
+
 
 
 ### Name:
